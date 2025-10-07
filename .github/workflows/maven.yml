@@ -17,7 +17,7 @@ on:
 jobs:
   build:
 
-    runs-on: 13.233.136.79
+    runs-on: ip-172-31-12-226
 
     steps:
     - uses: actions/checkout@v4
